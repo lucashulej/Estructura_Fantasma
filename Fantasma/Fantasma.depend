@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1562863708 source:c:\users\lucas\desktop\fantasma\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1562863708 c:\users\lucas\desktop\fantasma\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562863208 source:c:\users\lucas\desktop\fantasma\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1562863219 source:c:\users\lucas\desktop\fantasma\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"Controller.h"
+	"Parser.h"
+
+1561661573 c:\users\lucas\desktop\fantasma\linkedlist.h
+
+1561647548 c:\users\lucas\desktop\fantasma\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Fantasma.h"
+
+1562863208 c:\users\lucas\desktop\fantasma\parser.h
+
+1561661714 source:c:\users\lucas\desktop\fantasma\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562863853 source:c:\users\lucas\desktop\fantasma\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Fantasma.h"
+	"Parser.h"
+
+1561992802 c:\users\lucas\desktop\fantasma\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562873388 source:c:\users\lucas\desktop\fantasma\utn.c
+	"utn.h"
+
