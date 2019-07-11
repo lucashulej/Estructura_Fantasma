@@ -105,3 +105,27 @@ int setImporte(Fantasma* this,float importe)
     return retorno;
 }
 
+
+/*
+int getCaracter(Fantasma* this,char* caracter)
+{
+    int retorno=0;
+    if(this!=NULL&&caracter!=NULL)
+    {
+        *caracter=this->caracter;
+        retorno=1;
+    }
+    return retorno;
+}
+
+int setCaracter(Fantasma* this,char caracter)
+{
+    int retorno=0;
+    if(this!=NULL)
+    {
+        this->caracter=caracter;
+        retorno=1;
+    }
+    return retorno;
+}
+*/
