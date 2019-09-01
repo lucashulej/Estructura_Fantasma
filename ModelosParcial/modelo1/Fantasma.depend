@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1561996075 source:c:\users\lucas\desktop\fantasma\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1561993711 c:\users\lucas\desktop\fantasma\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562255164 source:c:\users\lucas\desktop\fantasma\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1561647774 source:c:\users\lucas\desktop\fantasma\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Fantasma.h"
+	"Controller.h"
+	"Parser.h"
+
+1561661573 c:\users\lucas\desktop\fantasma\linkedlist.h
+
+1561647548 c:\users\lucas\desktop\fantasma\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Fantasma.h"
+
+1561648570 c:\users\lucas\desktop\fantasma\parser.h
+
+1561661714 source:c:\users\lucas\desktop\fantasma\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561996396 source:c:\users\lucas\desktop\fantasma\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Fantasma.h"
+	"Parser.h"
+
+1561992802 c:\users\lucas\desktop\fantasma\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561997050 source:c:\users\lucas\desktop\fantasma\utn.c
+	"utn.h"
+
+1562267665 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Ventas.h"
+	"Controller.h"
+	"Parser.h"
+
+1562266965 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\linkedlist.h
+
+1561993711 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562267516 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Ventas.h"
+
+1562264867 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\parser.h
+
+1561996075 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1562266928 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562267737 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Ventas.h"
+	"Parser.h"
+	"Controller.h"
+
+1562265554 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Ventas.h"
+	"Parser.h"
+
+1562264544 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562264544 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\utn.c
+	"utn.h"
+
+1562266928 source:c:\users\lucas\desktop\modelosprogramacion\modelo1completo\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ventas.h"
+
+1562266928 c:\users\lucas\desktop\modelosprogramacion\modelo1completo\ventas.h
+

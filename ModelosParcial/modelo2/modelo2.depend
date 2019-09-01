@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1562271636 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"Controller.h"
+	"Parser.h"
+
+1562271845 c:\users\lucas\desktop\modelosprogramacion\modelo2\linkedlist.h
+
+1561993711 c:\users\lucas\desktop\modelosprogramacion\modelo2\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562271569 c:\users\lucas\desktop\modelosprogramacion\modelo2\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+
+1562269736 c:\users\lucas\desktop\modelosprogramacion\modelo2\parser.h
+
+1561996075 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1562271845 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562271152 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1562271152 c:\users\lucas\desktop\modelosprogramacion\modelo2\empleado.h
+
+1562271688 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+
+1562271898 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Empleado.h"
+	"Parser.h"
+
+1561992802 c:\users\lucas\desktop\modelosprogramacion\modelo2\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561997050 source:c:\users\lucas\desktop\modelosprogramacion\modelo2\utn.c
+	"utn.h"
+
+1562271636 source:c:\users\lucas\desktop\modelosprogramacion\modelo2completo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Empleado.h"
+	"Controller.h"
+	"Parser.h"
+
+1562271845 c:\users\lucas\desktop\modelosprogramacion\modelo2completo\linkedlist.h
+
+1562271152 c:\users\lucas\desktop\modelosprogramacion\modelo2completo\empleado.h
+
+1562271569 c:\users\lucas\desktop\modelosprogramacion\modelo2completo\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+
+1562269736 c:\users\lucas\desktop\modelosprogramacion\modelo2completo\parser.h
+
+1562271976 source:c:\users\lucas\desktop\modelosprogramacion\modelo2completo\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1562271845 source:c:\users\lucas\desktop\modelosprogramacion\modelo2completo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562271688 source:c:\users\lucas\desktop\modelosprogramacion\modelo2completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+
+1561997050 source:c:\users\lucas\desktop\modelosprogramacion\modelo2completo\utn.c
+	"utn.h"
+
+1561992802 c:\users\lucas\desktop\modelosprogramacion\modelo2completo\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

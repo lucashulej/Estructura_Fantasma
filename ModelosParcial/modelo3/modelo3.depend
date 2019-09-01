@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1562787326 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"Controller.h"
+	"Parser.h"
+
+1561661573 c:\users\lucas\desktop\modelosprogramacion\modelo3\linkedlist.h
+
+1561993711 c:\users\lucas\desktop\modelosprogramacion\modelo3\fantasma.h
+	<stdio.h>
+	<stdlib.h>
+
+1562786781 c:\users\lucas\desktop\modelosprogramacion\modelo3\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+
+1562787345 c:\users\lucas\desktop\modelosprogramacion\modelo3\parser.h
+
+1561996075 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fantasma.h"
+
+1561661714 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562871136 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"peliculas.h"
+	"Parser.h"
+
+1561992802 c:\users\lucas\desktop\modelosprogramacion\modelo3\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562869134 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\utn.c
+	"utn.h"
+
+1562871985 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peliculas.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Controller.h"
+
+1562871491 source:c:\users\lucas\desktop\modelosprogramacion\modelo3\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1562870836 c:\users\lucas\desktop\modelosprogramacion\modelo3\peliculas.h
+	"LinkedList.h"
+
